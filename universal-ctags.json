@@ -3,7 +3,6 @@
     "description": "A maintained ctags implementation",
     "version": "0.0.0",
     "url": "https://github.com/universal-ctags/ctags-win32/releases/download/2018-05-24%2F6f7654b9/ctags-2018-05-24_6f7654b9-x64.zip",
-    "extract_dir": "universal-ctags",
     "bin": "ctags.exe",
     "hash": "564f80bc57a502a9d5280d1e6aafaeca6bf0e67983b54a9b2a107d798a76a854",
     "license": "GPL-2.0"
