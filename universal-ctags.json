@@ -1,0 +1,10 @@
+{
+    "homepage": "https://ctags.io",
+    "description": "A maintained ctags implementation",
+    "version": "0.0.0",
+    "url": "https://github.com/universal-ctags/ctags-win32/releases/download/2018-05-24%2F6f7654b9/ctags-2018-05-24_6f7654b9-x64.zip",
+    "extract_dir": "universal-ctags",
+    "bin": "ctags.exe",
+    "hash": "e1f5909ec0c7a58fd2149139fa6a1dc532070a3d919dd183671c57a32f8b243d",
+    "license": "GPL-2.0"
+}
