@@ -1,0 +1,10 @@
+{
+    "homepage": "https://github.com/billziss-gh/winfsp",
+    "description": "Windows File System Proxy - FUSE for Windows",
+    "extract_dir": "WinFsp",
+    "url": "https://github.com/billziss-gh/winfsp/releases/download/v1.3/winfsp-1.3.18160.msi",
+    "hash": "b3e95975031186d33e345a9c67d82afaf328a24bc8227666a4f9fc0ee40a2748",
+    "env_add_path": "bin",
+    "version": "1.3.18160",
+    "license": "MIT"
+}
