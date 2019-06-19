@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "url": "https://www.apache.org/dist/zookeeper/zookeeper-3.5.5/apache-zookeeper-3.5.5-bin.tar.gz",
     "hash": "sha512:4c65e56c074393835dee87256d577ebef6bbc0fbe8271cf030a50779f7e9ba5110bc274aa4b239a431de1716ad6c8a103abac02b93c3ad2c264bbea8b1c330c1",
-    "extract_dir": "apache-zookeeper-3.5.5",
+    "extract_dir": "apache-zookeeper-3.5.5-bin",
     "bin": [
         "bin\\zkServer.cmd",
         "bin\\zkCli.cmd"
