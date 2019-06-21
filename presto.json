@@ -6,7 +6,7 @@
     "url": "https://repo1.maven.org/maven2/io/prestosql/presto-cli/315/presto-cli-315-executable.jar",
     "hash": "sha256:fb82b2277d795ae7c7ec23e8e34561e1531e13a88da9b919c8cf9bbc205031e5",
     "bin": ["presto.bat"],
-    "post_install": [
-        "echo 3"
+    "pre_install": [
+        "echo \"@java -jar presto-cli-315-executable.jar --help\" > $dir\\presto.bat"
     ]
 }
