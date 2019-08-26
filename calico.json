@@ -8,7 +8,7 @@
         }
     },
     "bin": ["calicoctl.exe"],
-    "pre_install": ["ren $dir\calicoctl-windows-amd64.exe $dir\calicoctl.exe"],
+    "pre_install": ["Rename-Item -Path \"$dir\\calicoctl-windows-amd64.exe\" -NewName calicoctl.exe"],
     "version": "v3.2.8",
     "license": "GPL-2.0"
 }
