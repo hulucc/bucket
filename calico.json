@@ -7,8 +7,8 @@
             "hash": "e4929e7080155e0c1570ac52759c6b684a6e372ac5bb0fd88e74c1b7c9b81a46"
         }
     },
-    "bin": ["calicoctl-windows-amd64.exe"],
-    "pre_install": ["ren calicoctl-windows-amd64.exe calicoctl.exe"],
+    "bin": ["calicoctl.exe"],
+    "pre_install": ["ren $dir\calicoctl-windows-amd64.exe $dir\calicoctl.exe"],
     "version": "v3.2.8",
     "license": "GPL-2.0"
 }
