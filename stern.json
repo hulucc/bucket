@@ -7,7 +7,7 @@
             "hash": "75708b9acf6ef0eeffbe1f189402adc0405f1402e6b764f1f5152ca288e3109e"
         }
     },
-    "bin": [["stern_windows_amd64.exe", "stern.exe"]],
+    "bin": [["stern_windows_amd64.exe", "stern"]],
     "version": "1.11.0",
     "license": "GPL-2.0"
 }
