@@ -10,8 +10,8 @@
     "url": "https://dl.google.com/android/repository/commandlinetools-win-6514223_latest.zip",
     "extract_to": "cmdline-tools",
     "bin": [
-        "tools\\bin\\sdkmanager.bat",
-        "tools\\bin\\avdmanager.bat"
+        "cmdline-tools\\tools\\bin\\sdkmanager.bat",
+        "cmdline-tools\\tools\\bin\\avdmanager.bat"
     ],
     "env_set": {
         "ANDROID_SDK_ROOT": "$dir"
