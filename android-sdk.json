@@ -9,8 +9,8 @@
     "depends": "adb",
     "url": "https://dl.google.com/android/repository/commandlinetools-win-6514223_latest.zip",
     "bin": [
-        "tools\\sdkmanager.bat",
-        "tools\\avdmanager.bat"
+        "tools\\bin\\sdkmanager.bat",
+        "tools\\bin\\avdmanager.bat"
     ],
     "env_set": {
         "ANDROID_SDK_ROOT": "$dir"
