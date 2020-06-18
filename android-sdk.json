@@ -8,7 +8,7 @@
     },
     "depends": "adb",
     "url": "https://dl.google.com/android/repository/commandlinetools-win-6514223_latest.zip",
-    "extract_dir": "cmdline-tools",
+    "extract_to": "cmdline-tools",
     "bin": [
         "tools\\bin\\sdkmanager.bat",
         "tools\\bin\\avdmanager.bat"
